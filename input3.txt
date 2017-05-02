@@ -1,0 +1,21 @@
+Location Ionia Syndra Automatic
+Location Ionia Bard Automatic
+Location Demacia Garen Automatic
+Location Demacia Lux Automatic
+Location Demacia Nautilus Manual
+Location Noxus Darius Manual
+# check cancelling correct and incorrect bookings
+Request 1 23 Dec 25 12 Dec 26 1 Automatic
+Print Ionia
+Cancel 1
+Print Ionia
+Cancel 2
+# Check that you cant book in or out of booking ranges
+# Also check booking from 2 different depots
+Request 2 7 Sep 11 10 Sep 16 2 Manual
+Print Noxus
+Print Demacia
+Request 3 7 Sep 10 10 Sep 17 2 Manual
+Request 3 7 Sep 12 10 Sep 15 2 Manual
+Print Noxus
+Print Demacia

@@ -1,0 +1,20 @@
+Location Ionia Syndra Automatic
+Location Ionia Bard Automatic
+Request 1 23 Jul 25 12 Jul 26 1 Automatic
+Print Ionia
+# Check if old booking remains if change is rejected
+Change 1 23 Jul 27 23 Aug 29 1 Manual
+Print Ionia
+# Test print order and to make sure bookings are 1 hour apart
+# Before time
+Request 2 10 Jul 25 23 Jul 25 2 Automatic
+Print Ionia
+Request 3 10 Jul 25 22 Jul 25 2 Automatic
+Print Ionia
+# After time
+Request 2 23 Jul 26 23 Jul 26 2 Automatic
+Print Ionia
+Print Bard
+Request 3 24 Jul 26 22 Jul 26 2 Automatic
+Print Ionia
+Print Bard

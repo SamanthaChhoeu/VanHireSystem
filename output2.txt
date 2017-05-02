@@ -1,0 +1,24 @@
+Booking 1 Ionia Syndra
+Ionia Syndra 23:00 Jul 25 12:00 Jul 26
+Change rejected
+Ionia Syndra 23:00 Jul 25 12:00 Jul 26
+Booking rejected
+Ionia Syndra 23:00 Jul 25 12:00 Jul 26
+Booking 3 Ionia Syndra, Bard
+Ionia Syndra 10:00 Jul 25 22:00 Jul 25
+Ionia Syndra 23:00 Jul 25 12:00 Jul 26
+Ionia Bard 10:00 Jul 25 22:00 Jul 25
+Booking 2 Ionia Syndra, Bard
+Ionia Syndra 10:00 Jul 25 22:00 Jul 25
+Ionia Syndra 23:00 Jul 25 12:00 Jul 26
+Ionia Syndra 23:00 Jul 26 23:00 Jul 26
+Ionia Bard 10:00 Jul 25 22:00 Jul 25
+Ionia Bard 23:00 Jul 26 23:00 Jul 26
+Booking 3 Ionia Syndra, Bard
+Ionia Syndra 10:00 Jul 25 22:00 Jul 25
+Ionia Syndra 23:00 Jul 25 12:00 Jul 26
+Ionia Syndra 23:00 Jul 26 23:00 Jul 26
+Ionia Syndra 24:00 Jul 26 22:00 Jul 26
+Ionia Bard 10:00 Jul 25 22:00 Jul 25
+Ionia Bard 23:00 Jul 26 23:00 Jul 26
+Ionia Bard 24:00 Jul 26 22:00 Jul 26

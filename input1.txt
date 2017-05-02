@@ -1,0 +1,18 @@
+Location Demacia Garen Automatic
+Location Demacia Lux Automatic
+Location Demacia Nautilus Manual
+Location Noxus Darius Manual
+# Checking if bookings work for two different transmissions are in one depot
+Request 1 23 Mar 25 12 Mar 26 2 Automatic 1 Manual
+Print Demacia
+# Try booking for the whole year
+Request 2 1 Jan 1 31 Dec 23 1 Manual
+Print Noxus
+# Try booking for the whole year again
+Request 2 1 Jan 1 31 Dec 23 1 Manual
+# Checking if cancel works
+Cancel 1
+Print Demacia
+# Change from booking 1 transmission to 2 transmissions
+Change 2 10 Jan 4 12 Apr 15 2 Automatic 1 Manual
+Print Demacia
